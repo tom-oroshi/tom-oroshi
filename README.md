@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tom-oroshi
-- 👀 I’m interested in Web Development, InfoSec, and Networking
-- 🌱 I’m currently learning React, TailwindCSS, Python
+- 👀 I’m interested in using APIs and Automations to make people's lives easier
+- 🌱 I’m currently working on building my Python skills
 
 
