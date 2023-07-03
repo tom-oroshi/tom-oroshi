@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @tom-oroshi
-- 👀 I’m interested in productivity and building API integrations to make people's lives easier
-- 🌱 I’m currently working on building my Python skills
+- 👋 Hey, I’m @tom-oroshi
+- 🔧 I enjoy building small scripts that make people's lives easier
+- 💙 I like shiny new technology, and I care about the humans using it
+- 🧠 I think a lot about wicked problems
 
 
